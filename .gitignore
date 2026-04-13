@@ -1,0 +1,9 @@
+# secrets
+keys/
+
+# generated/test artifacts
+*.seal
+note.txt
+
+# compiled binary (do not commit)
+seal
